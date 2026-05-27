@@ -35,3 +35,6 @@ Les variables d'environnement suivantes permettent de personnaliser le contexte 
 
 ## Copie du code
 - Copier tout le code du dépôt (à l'exception du sous-dossier `sql/`) dans un sous-dossier (nommé par exemple `banque`) du dossier servi par votre serveur Apache. Par exemple, copier le code vers `C:\wamp64\www\banque` avec WAMP ou vers `/var/www/html/banque/` sous Linux/Debian.
+
+## Accès au site
+- Si le code a été copié dans le sous-dossier `banque`, l'URL de la page d'accueil est http://localhost/banque/
